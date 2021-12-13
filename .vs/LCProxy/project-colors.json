@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6a044fa-de57-4afb-b42e-cbe04f02df60": {
+      "ProjectGuid": "e6a044fa-de57-4afb-b42e-cbe04f02df60",
+      "DisplayName": "LCProxy",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

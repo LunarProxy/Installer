@@ -1,0 +1,13 @@
+D:\Documents\New Launcher SRC\LCProxy\bin\Release\LCProxy.exe.config
+D:\Documents\New Launcher SRC\LCProxy\bin\Release\LCProxy.exe
+D:\Documents\New Launcher SRC\LCProxy\bin\Release\LCProxy.pdb
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.csproj.AssemblyReference.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.csproj.SuggestedBindingRedirects.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.LCProxyGUI.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.LCProxyInstallerGUI.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.LCProxyTroubleshooter.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.Properties.Resources.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.csproj.GenerateResource.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.csproj.CoreCompileInputs.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.exe
+D:\Documents\New Launcher SRC\LCProxy\obj\Release\LCProxy.pdb

@@ -1,0 +1,50 @@
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\bin\Debug\LCProxy.exe.config
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\bin\Debug\LCProxy.exe
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\bin\Debug\LCProxy.pdb
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.LCProxyGUI.resources
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.Properties.Resources.resources
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.csproj.GenerateResource.cache
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.csproj.CoreCompileInputs.cache
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.exe
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.pdb
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.LCProxyInstallerGUI.resources
+C:\Users\booget\Desktop\Coding\Game Reversal\Projects\LCProxy\LCProxy\LCProxy\obj\Debug\LCProxy.LCProxyTroubleshooter.resources
+D:\LCProxy\New Launcher SRC\LCProxy\bin\Debug\LCProxy.exe.config
+D:\LCProxy\New Launcher SRC\LCProxy\bin\Debug\LCProxy.exe
+D:\LCProxy\New Launcher SRC\LCProxy\bin\Debug\LCProxy.pdb
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyGUI.resources
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyInstallerGUI.resources
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyTroubleshooter.resources
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.Properties.Resources.resources
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.GenerateResource.cache
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.CoreCompileInputs.cache
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.exe
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.pdb
+D:\LCProxy\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.AssemblyReference.cache
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\bin\Debug\LCProxy.exe.config
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\bin\Debug\LCProxy.exe
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\bin\Debug\LCProxy.pdb
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.AssemblyReference.cache
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.SuggestedBindingRedirects.cache
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyGUI.resources
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyInstallerGUI.resources
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyTroubleshooter.resources
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.Properties.Resources.resources
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.GenerateResource.cache
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.CoreCompileInputs.cache
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.exe
+C:\Users\booget\Downloads\New_Launcher_SRC\New Launcher SRC\LCProxy\obj\Debug\LCProxy.pdb
+D:\Documents\New Launcher SRC\LCProxy\bin\Debug\LCProxy.exe.config
+D:\Documents\New Launcher SRC\LCProxy\bin\Debug\LCProxy.exe
+D:\Documents\New Launcher SRC\LCProxy\bin\Debug\LCProxy.pdb
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.AssemblyReference.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.SuggestedBindingRedirects.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyGUI.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyInstallerGUI.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.LCProxyTroubleshooter.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.Properties.Resources.resources
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.GenerateResource.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.csproj.CoreCompileInputs.cache
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.exe
+D:\Documents\New Launcher SRC\LCProxy\obj\Debug\LCProxy.pdb
