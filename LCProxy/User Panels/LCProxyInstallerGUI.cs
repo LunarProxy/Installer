@@ -20,7 +20,7 @@ namespace LCProxy
             InitializeComponent();
         }
 
-        // Error for user not having JDK || Contact amplitudes.#0001 for any issues with code
+        // Error for user not having JDK || Contact rith#0001 for any issues with code
         void noJava()
         {
             DialogResult result = MessageBox.Show("You are missing JDK 1.8, would you like to install it?\nThis may take up to 5 minutes.", "Missing JDK", MessageBoxButtons.YesNo);
@@ -42,7 +42,7 @@ namespace LCProxy
         }
 
 
-        // Remove LCProxy || Contact Booget#0001 for any issues with code
+        // Remove LCProxy || Contact rith#0001 for any issues with code
         private void removeBtn_Click(object sender, EventArgs e)
         {
             FileSecurity fSecurity = File.GetAccessControl("C:\\Windows\\System32\\drivers\\etc\\hosts");
@@ -71,7 +71,7 @@ namespace LCProxy
             removeBtn.Enabled = false;
         }
 
-        // Install LCProxy || Contact amplitudes.#0001 for any issues with code
+        // Install LCProxy || Contact rith#0001 for any issues with code
         private void installBtn_Click(object sender, EventArgs e)
         {
             RegistryKey hklm = RegistryKey.OpenBaseKey(RegistryHive.LocalMachine, RegistryView.Registry64);
@@ -81,7 +81,8 @@ namespace LCProxy
                 // The zulu directory can vary for users. Using this will always go into the users zulu directory. Prevents users from having to manually do things
                 using (var client = new WebClient())
                 {
-                    client.DownloadFile("https://assets.lunarproxy.me/server.cer", Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "LCPcert.cer"));
+                    //Certificate may change but make sure it's always the same certificate
+                    client.DownloadFile("https://cdn.discordapp.com/attachments/921738244473905213/922003853677821963/server.cer", Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData), "LCPcert.cer"));
                     String javaHome = (string)key.GetValue("JavaHome");
 
                     string partName = "zulu";
@@ -107,11 +108,11 @@ namespace LCProxy
                     File.SetAccessControl("C:\\Windows\\System32\\drivers\\etc\\hosts", fSecurity);
 
                     String hostsFile = File.ReadAllText("C:\\Windows\\System32\\drivers\\etc\\hosts");
-                    if (!hostsFile.Contains("198.251.84.251 assetserver.lunarclientprod.com"))
+                    if (!hostsFile.Contains("proxy.ip.goes.here assetserver.lunarclientprod.com"))
                     {
-                        hostsFile += "\n198.251.84.251 assetserver.lunarclientprod.com";
+                        hostsFile += "\nproxy.ip.goes.here assetserver.lunarclientprod.com";
                         if (MessageBox.Show("Would you like to enable freelook?\nThis may cause issues, use with caution.", "Question", MessageBoxButtons.YesNo) == DialogResult.Yes) {
-                            hostsFile += "\n198.251.84.251 api.lunarclientprod.com";
+                            hostsFile += "\nproxy.ip.goes.here api.lunarclientprod.com";
                         }
                     }
                     File.WriteAllText("C:\\Windows\\System32\\drivers\\etc\\hosts", hostsFile);
