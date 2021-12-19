@@ -17,7 +17,6 @@ keytool -keystore cacerts -trustcacerts -importcert -alias lcproxy -noprompt -st
 echo server certificate test complete
 wget https://raw.githubusercontent.com/LunarProxy/Installer/main/linux/hosts && mv hosts ~/Downloads
 wget https://raw.githubusercontent.com/LunarProxy/Installer/main/linux/Lcproxy-injector-linux.sh && mv Lcproxy-injector-linux.sh ~/LCP
-wget https://raw.githubusercontent.com/LunarProxy/Installer/main/linux/Lcproxy-injector-linux.sh.desktop && mv Lcproxy-injector-linux.sh.desktop ~/.config/autostart
 mkdir ~/host-backup
 sudo cp /etc/hosts ~/host-backup
 echo Created hosts backup @ "/home/$USER/host-backup"
